@@ -1,1 +1,1 @@
-web: gunicorn runapp -b "0.0.0.0:$PORT"
+web: ./run
