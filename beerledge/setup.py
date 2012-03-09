@@ -13,7 +13,7 @@ requires = [
     ]
 
 setup(name='beerledge',
-      version='0.0',
+      version='0.01',
       description='beerledge',
       long_description=README + '\n\n' +  CHANGES,
       classifiers=[
@@ -25,7 +25,7 @@ setup(name='beerledge',
       author='Josh Finnie',
       author_email='josh@jfin.us',
       url='http://www.beerledge.com',
-      keywords='beer check-in web pyramid pylons',
+      keywords='beer check-in web pyramid',
       packages=find_packages(),
       include_package_data=True,
       zip_safe=False,
