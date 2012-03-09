@@ -4,8 +4,12 @@ MarkupSafe==0.15
 PasteDeploy==1.5.0
 Pygments==1.4
 WebOb==1.2b3
--f https://github.com/joshfinnie/beerledge-pyramid/raw/master/dist/beerledge-0.01-py2.7.egg
+beerledge==0.01
 distribute==0.6.19
+httplib2==0.7.4
+mongoengine==0.6.2
+poster==0.8.1
+pymongo==2.1.1
 pyramid==1.3b2
 pyramid-debugtoolbar==0.9.9.1
 repoze.lru==0.4
