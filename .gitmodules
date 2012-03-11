@@ -1,0 +1,3 @@
+[submodule "beerledge"]
+	path = beerledge
+	url = git@github.com:reedobrien/beerledge.git
