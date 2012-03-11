@@ -18,4 +18,4 @@ waitress==0.8.1
 wsgiref==0.1.2
 zope.deprecation==3.5.0
 zope.interface==3.8.0
-https://github.com/joshfinnie/beerledge-pyramid/raw/master/dist/beerledge-0.01-py2.7.egg
+git+git://github.com/reedobrien/beerledge-pyramid.git
